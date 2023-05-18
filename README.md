@@ -1,5 +1,7 @@
 
-## Hey there ... I am Vishesh
+## Hey there I am Vishesh
+
+visheshjthapa@gmail.com
 
 - 🔭 Graduate Mechanical Engineeer from UBC
 - 🧓 I'm a seasoned programmer in Rust and Golang
