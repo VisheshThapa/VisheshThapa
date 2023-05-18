@@ -31,6 +31,22 @@
       alt="JS"/>
   </a>
 </p>
+
+<h3 align="center">Engineering Software</h3>
+<p align="center">
+  <a href="https://www.solidworks.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SolidWorks-eb4034.svg?style=for-the-badge&logo=Dassault%20Syst%C3%A8mes&logoColor=white"
+      alt="SolidWorks"/>
+  </a>
+  <a href="https://www.openfoam.com/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenFOAM-151e99.svg?style=for-the-badge&logo=&logoColor=white" alt="openfoam" />
+  </a>
+  
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://img.shields.io/badge/NeoVim-689F38.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  </a>
+</p>
+
 <h3 align="center">Backend</h3>
 <p align="center">
   <a href="https://github.com/gofiber/fiber" target="_blank">
@@ -88,7 +104,6 @@
   <a href="https://neovim.io/" target="_blank">
     <img src="https://img.shields.io/badge/NeoVim-689F38.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
   </a>
-
 </p>
 
 <h3 align="center">Connect with me</h3>
