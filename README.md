@@ -3,8 +3,10 @@
 
 
 - 🔭 Graduate Mechanical Engineeer from UBC
+- 🚂 CAD and Finite Element Methods (FEM) Experience 
+- 🔩 Machine Shop Experience  
 - 🦀 Programmer in Rust and Golang
-- 🤖 Robot Control engineering expereince with Simens PLC
+- 🤖 Robot Control Engineering Experience  with Simens PLC
 - 🌊 Creating Rust Application for Compuational Fluid Dynamics
 - ✉️ Email: visheshjthapa@gmail.com
 
