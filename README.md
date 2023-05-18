@@ -1,10 +1,9 @@
 
 ## Hey there I am Vishesh
 
-visheshjthapa@gmail.com
 
 - 🔭 Graduate Mechanical Engineeer from UBC
-- 🧓 I'm a seasoned programmer in Rust and Golang
+- 🦀 Programmer in Rust and Golang
 - 🤖 Robot Control engineering expereince with Simens PLC
 - 🌊 Creating Rust Application for Compuational Fluid Dynamics
 - ✉️ Email: visheshjthapa@gmail.com
