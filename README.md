@@ -1,7 +1,7 @@
 
 ## Hey there ... I am Vishesh
 
-- 🔭 Graduate Mechanical Engineeer
+- 🔭 Graduate Mechanical Engineeer from UBC
 - 🧓 I'm a seasoned programmer in Rust and Golang
 - 🤖 Robot Control engineering expereince with Simens PLC
 - 🌊 Creating Rust Application for Compuational Fluid Dynamics
