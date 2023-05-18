@@ -83,7 +83,7 @@
 <h3 align="center">Reach me via</h3>
 <p align="center">
   <a href="mailto:visheshjthapa@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Gmail-0078D4.svg?style=for-the-badge&logo=gmaillogoColor=white" alt="example"/>
   </a>
 </p>
 <div align="center">
