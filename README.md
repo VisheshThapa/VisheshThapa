@@ -1,5 +1,5 @@
 
-## Hey there ... I am Vishesh 👋
+## Hey there ... I am Vishesh
 
 - 🔭 Graduate Mechanical Engineeer
 - 🧓 I'm a seasoned programmer in Rust and Golang
@@ -29,8 +29,8 @@
 </p>
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://kubernetes.io" target="_blank">
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
+  <a href="https://github.com/gofiber/fiber" target="_blank">
+    <img src="https://img.shields.io/badge/Fiber-326CE5.svg?style=for-the-badge&logo=go&logoColor=white" alt="fiber"/>
 </p>
 <h3 align="center">Database</h3>
 <p align="center">
