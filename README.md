@@ -80,6 +80,10 @@
   <a href="https://start.fedoraproject.org/" target="_blank">
     <img src="https://img.shields.io/badge/Fedora-039BE5.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   </a>
+  
+  <a href="https://neovim.io/" target="_blank">
+    <img src="https://img.shields.io/badge/NeoVim-689F38.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  </a>
 
 </p>
 
