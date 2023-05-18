@@ -89,4 +89,4 @@
 <div align="center">
 
 
-## Credit: [BHARAT](https://linktr.ee/bharatv)
+<> (credit to bharat https://linktr.ee/bharatv)
