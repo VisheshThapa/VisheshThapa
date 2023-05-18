@@ -7,6 +7,7 @@ visheshjthapa@gmail.com
 - 🧓 I'm a seasoned programmer in Rust and Golang
 - 🤖 Robot Control engineering expereince with Simens PLC
 - 🌊 Creating Rust Application for Compuational Fluid Dynamics
+- ✉️ Email: visheshjthapa@gmail.com
 
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
