@@ -42,8 +42,8 @@
     <img src="https://img.shields.io/badge/OpenFOAM-151e99.svg?style=for-the-badge&logo=&logoColor=white" alt="openfoam" />
   </a>
   
-  <a href="https://neovim.io/" target="_blank">
-    <img src="https://img.shields.io/badge/NeoVim-689F38.svg?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://img.shields.io/badge/matlab-e85c10.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="Matlab" />
   </a>
 </p>
 
