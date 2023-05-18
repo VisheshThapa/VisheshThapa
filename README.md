@@ -71,7 +71,7 @@
 
 </p>
 
-<h3 align="center">OS</h3>
+<h3 align="center">OS/Editor</h3>
 <p align="center">
   <a href="https://www.linuxfoundation.org/" target="_blank">
     <img src="https://img.shields.io/badge/Linux-424242.svg?style=for-the-badge&logo=linux&logoColor=white"
