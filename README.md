@@ -53,6 +53,7 @@
     <img  src="https://img.shields.io/badge/Linode-66BB6A?style=for-the-badge&logo=linode&logoColor=white" alt="linode"/>
   </a>
 </p>
+
 <h3 align="center">Version Control & CI/CD</h3>
 
 <p align="center">
@@ -69,6 +70,19 @@
   </a>
 
 </p>
+
+<h3 align="center">OS</h3>
+<p align="center">
+  <a href="https://www.linuxfoundation.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-424242.svg?style=for-the-badge&logo=linux&logoColor=white"
+      alt="Linux"/>
+  </a>
+  <a href="https://start.fedoraproject.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Fedora-039BE5.svg?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+  </a>
+
+</p>
+
 <h3 align="center">Connect with me</h3>
 <div style="margin-top:10px" align="center">
   <div>
