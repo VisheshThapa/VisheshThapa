@@ -1,5 +1,5 @@
 
-## Hey there I am Vishesh
+## Hey there I am Vishesh (Victor)
 
 
 - 🔭 Graduate Mechanical Engineeer from UBC
