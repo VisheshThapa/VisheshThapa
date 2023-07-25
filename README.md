@@ -1,13 +1,12 @@
 
-## Hey there I am Vishesh (Victor)
+## Hey there I am Vishesh
 
 
 - 🔭 Graduate Mechanical Engineeer from UBC
 - 🚂 CAD and Finite Element Methods (FEM) Experience 
 - 🔩 Machine Shop Experience  
 - 🦀 Programmer in Rust and Golang
-- 🤖 Robot Control Engineering Experience  with Simens PLC
-- 🌊 Creating Rust Application for Compuational Fluid Dynamics
+- 🤖 Robot Control Engineering Experience with Simens PLC
 - ✉️ Email: visheshjthapa@gmail.com
 
 
